@@ -56,7 +56,7 @@ python khinsider_dl.py "<TARGET_ALBUM_URL>"
 ### Execution Example
 
 ```bash
-python khinsider_dl.py "https://khinsider.com"
+python khinsider_dl.py "https://downloads.khinsider.com/game-soundtracks/album/seiryu-blue-dragon-qwce-00318-2013"
 ```
 
 ## Workflow Overview
